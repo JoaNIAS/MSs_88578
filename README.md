@@ -56,7 +56,7 @@ Download Blender from:
 
 https://www.blender.org/download/
 
-Blender is used for procedural pallet-scene generation and dataset creation.
+Blender is used for procedural pallet-scene generation and dataset creation. https://drive.google.com/file/d/134seawx58YHSI8hfFuEFLJO_6S9P7sTk/view?usp=sharing 
 
 2. Create Python Environment
 
