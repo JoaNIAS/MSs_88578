@@ -1,7 +1,6 @@
 # MSs_88578
 Computer vision pipeline for synthetic pallet dataset generation, YOLOv10n box detection, 3D geometry reconstruction, and evaluation.
 
-
 # YOLOv10n-Based 2D–3D Perception Pipeline for Palletized Box Scenes
 
 ## Overview
@@ -129,7 +128,9 @@ mAP@50	0.9688
 mAP@50–95	0.9176
 YOLO Prediction
 
-Run: predict_yolov10_labels.py
+Run:
+
+predict_yolov10_labels.py
 
 The script generates YOLO prediction labels for the test dataset.
 
